@@ -1,0 +1,11 @@
+/.cache/
+/assets/
+/build/
+/dist/
+/test-results/
+*.user
+*.suo
+*.log
+*.lnk
+.DS_Store
+Thumbs.db
